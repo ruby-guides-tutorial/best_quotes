@@ -1,0 +1,21 @@
+PATH
+  remote: ../rulers
+  specs:
+    rulers (0.0.1)
+      rack (~> 2.2)
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rack (2.2.7)
+    webrick (1.8.1)
+
+PLATFORMS
+  x86_64-darwin-22
+
+DEPENDENCIES
+  rulers!
+  webrick
+
+BUNDLED WITH
+   2.4.10
