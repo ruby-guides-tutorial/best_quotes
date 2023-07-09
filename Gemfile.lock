@@ -5,6 +5,7 @@ PATH
       erubis (~> 2.7)
       multi_json (~> 1.15)
       rack (~> 2.2)
+      sqlite3
 
 GEM
   remote: https://rubygems.org/
@@ -12,6 +13,7 @@ GEM
     erubis (2.7.0)
     multi_json (1.15.0)
     rack (2.2.7)
+    sqlite3 (1.6.3-x86_64-darwin)
     webrick (1.8.1)
 
 PLATFORMS
